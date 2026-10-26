@@ -1,4 +1,6 @@
 
+# 2번 문항
+
 ```
 
 #include <stdio.h>
