@@ -1,6 +1,7 @@
 # 3번 문항
 
-```#include <stdio.h>
+```
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
