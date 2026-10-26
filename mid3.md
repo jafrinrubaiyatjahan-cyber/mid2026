@@ -1,3 +1,4 @@
+# 3번 문항
 
 ```#include <stdio.h>
 #include <stdlib.h>
@@ -67,3 +68,4 @@ int main() {
     return 0;
 }
 ```
+<img width="1136" height="630" alt="image" src="https://github.com/user-attachments/assets/e767e956-c427-487b-9af2-36631826f908" />
