@@ -1,4 +1,4 @@
-#include "raylib.h"
+```#include "raylib.h"
 #include <stdbool.h>
 
 #define SCREEN_WIDTH 800
