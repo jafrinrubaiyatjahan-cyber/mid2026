@@ -230,6 +230,10 @@ int main(void) {
         EndDrawing();
     }
 
+
+    <img width="809" height="658" alt="image" src="https://github.com/user-attachments/assets/bee8df11-9d37-49f2-a6fb-8c5b231bd2c5" />
+
+
     CloseWindow();
     return 0;
 }
